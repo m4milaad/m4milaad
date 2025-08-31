@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### - I'm a passionate developer specializing in **Python**, **Java** and **C++**.
+### - I'm a passionate developer specializing in **Python**, **Java** and **C++**, **Full-Stack**.
 
 ### - Currently, I'm pursuing a **B.Tech degree** .
 
