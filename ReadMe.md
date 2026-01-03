@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 
 ### - I'm a passionate developer specializing in **Python**, **Java** and **C++**, **Full-Stack**.
@@ -29,3 +31,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=M4MILAAD&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
